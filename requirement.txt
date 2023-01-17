@@ -1,0 +1,16 @@
+pip install scipy
+pip install soundfile as sf
+pip install matplotlib.pyplot as plt
+pip install tensorflow.keras.backend as K
+pip install datetime
+pip install numpy as np
+pip install random
+pip install matplotlib.pyplot as plt
+pip install collections
+pip installkimage.transform import resize
+pip install imageio
+pip install librosa
+pip install librosa.display
+pip install os
+pip install time
+pip install IPython
